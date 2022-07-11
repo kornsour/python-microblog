@@ -10,7 +10,7 @@ It leverages [Docker](https://www.docker.com/) and [Docker Compose](https://docs
 
 ## Starting the App
 
-Run `flask run` to start the app once the container is up and running.
+Start the app inside the devcontainer: `flask run`
 
 ## Heroku Deployment
 
