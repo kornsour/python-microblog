@@ -8,6 +8,10 @@ This repo uses a [devcontainer](https://code.visualstudio.com/docs/remote/contai
 
 It leverages [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/overview/) to deploy containers for MongoDB and Flask.
 
-## Starting the app
+## Starting the App
 
 Run `flask run` to start the app once the container is up and running.
+
+## Heroku Deployment
+
+You can visit the app deployed on Heroku [here](https://kornsour-python-microblog.herokuapp.com/)
